@@ -1,0 +1,14 @@
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\bin\Release\netcoreapp2.1\Api.deps.json
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\bin\Release\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\bin\Release\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\bin\Release\netcoreapp2.1\Api.dll
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\bin\Release\netcoreapp2.1\Api.pdb
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.dll
+C:\Users\janss\Documents\school\Jaar 2\3\8_AspNetIdentity\src\Api\obj\Release\netcoreapp2.1\Api.pdb
